@@ -1,4 +1,4 @@
-# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) // 2026–2027 //
+# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) · 2026–27
 
 <p align="center">
   <img src="DAW1_GHportada.png"
