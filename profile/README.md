@@ -1,12 +1,30 @@
-## Hi there 👋
+# 🖥️ Desarrollo de Aplicaciones Multiplataforma (DAM) // 2026–2027 //
 
-<!--
+<p align="center">
+  <img src="DAW1_GHportada.png"
+       alt="DAW1 2026-2027 · Desarrollo de Aplicaciones Multiplataforma"
+       width="60%">
+</p>
 
-**Here are some ideas to get you started:**
+<div align="center">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## **🚀 Lenguajes de Marcas y Sistemas de Gestión de Información 🚀**
+
+<br>
+
+**`code → test → break → fix → commit → repeat`**
+
+</div>
+
+---
+
+### 👋 Bienvenidos
+
+Esta es la organización de GitHub que utilizaremos durante el curso **2026–2027** para trabajar las prácticas, proyectos y materiales de **1º de DAW** del módulo `Lenguaje de Marcas y Sistemas de Gestión de la Información`.
+
+**GitHub** será una de nuestras principales herramientas de trabajo: aquí encontraréis los repositorios de las prácticas, código, documentación y otros recursos que iremos utilizando durante el curso.
+
+La idea no es solamente aprender a programar o configurar sistemas, sino acostumbrarnos poco a poco a utilizar herramientas y metodologías similares a las que encontraréis en un entorno profesional.
+
+---
+
