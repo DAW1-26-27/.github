@@ -20,7 +20,7 @@
 
 ### 👋 Bienvenidos
 
-Esta es la organización de GitHub que utilizaremos durante el curso **2026–2027** para trabajar las prácticas, proyectos y materiales de **1º de DAW** del módulo `Lenguaje de Marcas y Sistemas de Gestión de la Información`.
+Esta es la organización de **GitHub** que utilizaremos durante el curso **2026–2027** para trabajar las prácticas, proyectos y materiales de **1º de DAW** del módulo `Lenguaje de Marcas y Sistemas de Gestión de la Información`.
 
 **GitHub** será una de nuestras principales herramientas de trabajo: aquí encontraréis los repositorios de las prácticas, código, documentación y otros recursos que iremos utilizando durante el curso.
 
